@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Tests001", "NUnit.Tests001\NUnit.Tests001.csproj", "{DC0C008B-4F5B-4678-B2C0-7F8A87D04BD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Utils", "NUnit.Utils\NUnit.Utils.csproj", "{3F781B5E-B39C-4CEA-950E-FB51A0584450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC0C008B-4F5B-4678-B2C0-7F8A87D04BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0C008B-4F5B-4678-B2C0-7F8A87D04BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0C008B-4F5B-4678-B2C0-7F8A87D04BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0C008B-4F5B-4678-B2C0-7F8A87D04BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F781B5E-B39C-4CEA-950E-FB51A0584450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F781B5E-B39C-4CEA-950E-FB51A0584450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F781B5E-B39C-4CEA-950E-FB51A0584450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F781B5E-B39C-4CEA-950E-FB51A0584450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
